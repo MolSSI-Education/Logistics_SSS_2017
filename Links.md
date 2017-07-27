@@ -29,6 +29,9 @@ Visual tools:
  - [Smart Git](http://www.syntevo.com/smartgit/)
  - [Git Kraken](https://www.gitkraken.com)
 
+Caching your GitHub password:
+- [GitHub Help](https://help.github.com/articles/caching-your-github-password-in-git/)
+
 ### C++
 Tutorials and references:
  - [IsoCpp](https://isocpp.org/get-started)
