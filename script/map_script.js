@@ -178,7 +178,7 @@ function initMap() {
        ' of the Squires Student Center.  This is the side where '+
        'the construction is taking place, not the side facing College Ave.</p>'+
        '<em>The bus schedule can be found '+
-       '<a href="http://www.smartwaybus.com/schedule.htm" target="_blank">here</a>.</em>'
+       '<a href="http://smartwaybus.com/smartway.html" target="_blank">here</a>.</em>'
   }];
   //I loop over the locations array and create another array of marker objects
   var marks = [];
